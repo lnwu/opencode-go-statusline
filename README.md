@@ -1,5 +1,9 @@
 # opencode-go-statusline
 
+> **This repository has moved.** Development continues in the
+> [opencode-statusline-plugins](https://github.com/lnwu/opencode-statusline-plugins/tree/main/packages/opencode-go-statusline)
+> monorepo. This repository is archived and kept for history only.
+
 [![npm version](https://img.shields.io/npm/v/opencode-go-statusline)](https://www.npmjs.com/package/opencode-go-statusline)
 [![license](https://img.shields.io/npm/l/opencode-go-statusline)](https://github.com/lnwu/opencode-go-statusline/blob/main/LICENSE)
 

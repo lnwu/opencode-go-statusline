@@ -1,5 +1,9 @@
 # opencode-go-statusline
 
+> **本仓库已迁移。** 后续开发在
+> [opencode-statusline-plugins](https://github.com/lnwu/opencode-statusline-plugins/tree/main/packages/opencode-go-statusline)
+> monorepo 中进行。本仓库已归档，仅保留历史记录。
+
 [![npm version](https://img.shields.io/npm/v/opencode-go-statusline)](https://www.npmjs.com/package/opencode-go-statusline)
 [![license](https://img.shields.io/npm/l/opencode-go-statusline)](https://github.com/lnwu/opencode-go-statusline/blob/main/LICENSE)
 
